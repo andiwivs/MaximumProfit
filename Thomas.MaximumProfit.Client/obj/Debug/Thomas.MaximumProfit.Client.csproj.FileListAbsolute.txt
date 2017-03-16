@@ -1,0 +1,11 @@
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\bin\Debug\Thomas.MaximumProfit.Client.exe.config
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\bin\Debug\Thomas.MaximumProfit.Client.exe
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\bin\Debug\Thomas.MaximumProfit.Client.pdb
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\bin\Debug\Thomas.MaximumProfit.Core.dll
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\bin\Debug\Thomas.MaximumProfit.Core.pdb
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.csprojResolveAssemblyReference.cache
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.frmMain.resources
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.Properties.Resources.resources
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.csproj.GenerateResource.Cache
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.exe
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Client\obj\Debug\Thomas.MaximumProfit.Client.pdb

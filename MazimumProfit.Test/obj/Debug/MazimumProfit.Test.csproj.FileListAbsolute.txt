@@ -1,0 +1,9 @@
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\MazimumProfit.Test.dll
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\MazimumProfit.Test.pdb
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\nunit.framework.dll
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\nunit.framework.xml
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\obj\Debug\MazimumProfit.Test.csprojResolveAssemblyReference.cache
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\obj\Debug\MazimumProfit.Test.dll
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\obj\Debug\MazimumProfit.Test.pdb
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\Thomas.MaximumProfit.Core.dll
+D:\Repos\personal\MaximumProfit\MazimumProfit.Test\bin\Debug\Thomas.MaximumProfit.Core.pdb

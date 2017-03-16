@@ -1,0 +1,4 @@
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Core\bin\Debug\Thomas.MaximumProfit.Core.dll
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Core\bin\Debug\Thomas.MaximumProfit.Core.pdb
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Core\obj\Debug\Thomas.MaximumProfit.Core.dll
+D:\Repos\personal\MaximumProfit\Thomas.MaximumProfit.Core\obj\Debug\Thomas.MaximumProfit.Core.pdb
